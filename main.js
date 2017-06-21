@@ -75,8 +75,8 @@ var style_object = {
       "maxzoom": 21,
       "minzoom": 0,
       "paint":{
-        "fill-color": "#dceacf",
-        "fill-outline-color": "#dceacf"
+        "fill-color": "pink",
+        "fill-outline-color": "pink"
       }
     },
     {
@@ -87,8 +87,8 @@ var style_object = {
       "maxzoom": 21,
       "minzoom": 0,
       "paint":{
-        "fill-color": "#dceacf",
-        "fill-outline-color": "#dceacf"
+        "fill-color": "pink",
+        "fill-outline-color": "pink"
       }
     },
     {
@@ -231,8 +231,8 @@ var style_object = {
       "maxzoom": 21,
       "minzoom": 0,
       "paint": {
-        "fill-color" : "#dceacf",
-        "fill-outline-color": "#dceacf"
+        "fill-color" : "pink",
+        "fill-outline-color": "pink"
       }
     },
     {
@@ -720,7 +720,7 @@ var style_object = {
       "filter":["in", "bgt_fysiekvoorkomen", "groenvoorziening", "struiken", "grasland agrarisch", "grasland overig"],
       "paint":{
         "fill-outline-color": "rgba(0,0,0,0)",
-        "fill-color": "#DCEACF"
+        "fill-color": "pink"
       }
     },
     {
@@ -869,7 +869,7 @@ var style_object = {
         ["in", "bgt_fysiekvoorkomen" , "groenvoorziening","onverhard"]
       ],
       "paint": {
-        "fill-color" : "#DCEACF"
+        "fill-color" : "pink"
       }
     },
     {
@@ -1023,7 +1023,7 @@ var style_object = {
       "filter":["in", "bgt_fysiekvoorkomen", "groenvoorziening", "struiken", "grasland agrarisch", "grasland overig"],
       "paint":{
         "fill-outline-color": "rgba(0,0,0,0)",
-        "fill-color": "#DCEACF"
+        "fill-color": "pink"
       }
     },
     {
@@ -1157,7 +1157,7 @@ var style_object = {
         ["in", "bgt_fysiekvoorkomen" , "groenvoorziening","onverhard"]
       ],
       "paint": {
-        "fill-color" : "#DCEACF"
+        "fill-color" : "pink"
       }
     },
     {
@@ -1254,10 +1254,10 @@ var style_object = {
             ["gesloten verharding", "#FFFFFF"],
             ["half verhard",  "#FFFFFF"],
             ["perron",      "#FFFFFF"],
-            ["groenvoorziening","#DCEACF"],
-            ["struiken",    "#DCEACF"],
-            ["grasland agrarisch", "#DCEACF"],
-            ["grasland overig", "#DCEACF"],
+            ["groenvoorziening","pink"],
+            ["struiken",    "pink"],
+            ["grasland agrarisch", "pink"],
+            ["grasland overig", "pink"],
             ["naaldbos",    "#cbe0b8"],
             ["fruitteelt",    "#cbe0b8"],
             ["loofbos",     "#cbe0b8"],
@@ -1364,7 +1364,7 @@ var style_object = {
         ["in", "bgt_fysiekvoorkomen" , "groenvoorziening","onverhard"]
       ],
       "paint": {
-        "fill-color" : "#DCEACF"
+        "fill-color" : "pink"
       }
     },
     {
@@ -1460,10 +1460,10 @@ var style_object = {
             ["gesloten verharding", "#FFFFFF"],
             ["half verhard", "#FFFFFF"],
             ["perron", "#FFFFFF"],
-            ["groenvoorziening", "#DCEACF"],
-            ["struiken", "#DCEACF"],
-            ["grasland agrarisch", "#DCEACF"],
-            ["grasland overig", "#DCEACF"],
+            ["groenvoorziening", "pink"],
+            ["struiken", "pink"],
+            ["grasland agrarisch", "pink"],
+            ["grasland overig", "pink"],
             ["naaldbos", "#cbe0b8"],
             ["fruitteelt", "#cbe0b8"],
             ["loofbos", "#cbe0b8"],
@@ -1569,7 +1569,7 @@ var style_object = {
         ["in", "bgt_fysiekvoorkomen" , "groenvoorziening","onverhard"]
       ],
       "paint": {
-        "fill-color" : "#DCEACF"
+        "fill-color" : "pink"
       }
     },
     {
@@ -1643,10 +1643,10 @@ var style_object = {
             ["gesloten verharding", "#FFFFFF"],
             ["half verhard", "#FFFFFF"],
             ["perron", "#FFFFFF"],
-            ["groenvoorziening", "#DCEACF"],
-            ["struiken", "#DCEACF"],
-            ["grasland agrarisch", "#DCEACF"],
-            ["grasland overig", "#DCEACF"],
+            ["groenvoorziening", "pink"],
+            ["struiken", "pink"],
+            ["grasland agrarisch", "pink"],
+            ["grasland overig", "pink"],
             ["naaldbos", "#cbe0b8"],
             ["fruitteelt", "#cbe0b8"],
             ["loofbos", "#cbe0b8"],
